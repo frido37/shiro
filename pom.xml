@@ -30,7 +30,7 @@
     <groupId>org.apache.shiro</groupId>
     <artifactId>shiro-root</artifactId>
     <packaging>pom</packaging>
-    <version>1.2.5</version>
+    <version>1.2.5-guice-4</version>
 
     <name>Apache Shiro</name>
     <url>http://shiro.apache.org/</url>
@@ -89,7 +89,7 @@
         <quartz.version>1.6.1</quartz.version>
         <slf4j.version>1.6.4</slf4j.version>
         <spring.version>3.1.0.RELEASE</spring.version>
-        <guice.version>3.0</guice.version>
+        <guice.version>4.0</guice.version>
 
         <!-- Test 3rd-party dependencies: -->
         <easymock.version>3.1</easymock.version>
